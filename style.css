@@ -1,0 +1,29 @@
+.radio-buttons {
+  text-align: center;
+}
+
+.buton {
+  margin: 25px 0;
+  text-align: center;
+}
+
+.symbols {
+
+  width: 100%;
+  text-align: center;
+}
+ 
+.first-row {
+    display: block;
+}
+.first-row,
+p {
+  margin: 20px;
+  display: inline-block;
+
+}
+
+/* .second-row {
+    display: block;
+} */
+
